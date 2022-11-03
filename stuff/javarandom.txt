@@ -1,0 +1,73 @@
+<blockquote>
+<SCRIPT>
+var numquote = 21
+day = new Date()
+seed = day.getTime()
+ran = parseInt(((seed - (parseInt(seed/1000,10) * 1000))/10)/100*numquote + 1,10)
+
+if (ran == (1))
+quote=("And in the end...<br>The love you take...<br>Is equal to the love...<br>you make"),
+byline=("- Lennon and McCartney (The End - Abbey Road)")
+if (ran == (2))
+quote=("If fifty million people say a foolish thing,<br>it is still a foolish thing."),
+byline=("- Anatole France (1844-1924)<br>[pseudonym of Jacques Anatole Francois Thibault]")
+if (ran == (3))
+quote=("Power is so characteristically calm,<br>that calmness in itself has the aspect of power."),
+byline=("- Bulwer-Lytton (1803-1873)")
+if (ran == (4))
+quote=("Education is the ability to listen to almost anything without losing your temper or your self-confidence."),
+byline=(" - Robert Frost, American poet (1874-1963)")
+if (ran == (5))
+quote=("Love... she is blind, no?"),
+byline=("- Pepe LePew")
+if (ran == (6))
+quote=("Those who make peaceful revolution impossible will make violent revolution inevitable."),
+byline=("- John F. Kennedy (1917-1963),<br>U.S. President,<br>from speech at the White House on 13 March 1962")
+if (ran == (7))
+quote=("Man is a credulous animal and must believe something. In the absence of good grounds for belief, he will be satisfied with bad ones."),
+byline=("- Bertrand Russell, British philosopher (1872-1970)")
+if (ran == (8))
+quote=("By doubting we come to questioning, and by questioning we perceive the truth."),
+byline=("- Peter Abelard (1079-1142)")
+if (ran == (9))
+quote=("Though we travel the world over to find the beautiful, we must carry it within us or we will find it not."),
+byline=("- Ralph Waldo Emerson, American poet and essayist (1803-1882)")
+if (ran == (10))
+quote=("No one can make you feel inferior without your consent."),
+byline=("- Eleanor Roosevelt (1884-1962)")
+if (ran == (11))
+quote=("The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy."),
+byline=("- Rev. Dr. Martin Luther King (1929-1968),<br>from Strength to Love")
+if (ran == (12))
+quote=("Believe not because some old manuscripts are produced, believe not because it is your national belief, believe not because you have been made to believe from your childhood, but reason truth out, and after you have analyzed it, then if you find it will do good to one and all, believe it, live up to it and help others to live up to it."),
+byline=("- Budda")
+if (ran == (13))
+quote=("Just think of the tragedy of teaching children not to doubt."),
+byline=("- Clarence Darrow (1857-1938)")
+if (ran == (14))
+quote=("The unreasonable man is the one who expects the world to adapt to his needs, the reasonable man is the one who adapts himself to suit the world. Therefore, all progress depends upon the unreasonable man."),
+byline=("- George Bernard Shaw, Irish-born playwright (1856-1950)")
+if (ran == (15))
+quote=("It was, of course, a grand and impressive thing to do, to mistrust the obvious, and to pin one's faith in things which could not be seen."),
+byline=("- Galen (129-199), On Natural Faculties")
+if (ran == (16))
+quote=("What truly marks an open-minded person is the willingness to follow where the evidence leads"),
+byline=("- Jonathan E. Adler, professor of philosophy<br>(jeabc@cunyvm.cuny.edu)")
+if (ran == (17))
+quote=("There are three kinds of people in this world, those who can count and those who cannot."),
+byline=("- anon")
+if (ran == (18))
+quote=("We forgive once we give up attachment to our wounds"),
+byline=("- Lewis Hyde")
+if (ran == (19))
+quote=("To change your mind and to follow him who sets you right is to be nonetheless the free agent that you were before."),
+byline=("- Marcus Aurelius Antoninus (121-180), Meditations")                  
+if (ran == (20))
+quote=("Imagine"),
+byline=("- John Lennon")                  
+if (ran == (21))
+quote=("In each period [of human history] there is a general form of the forms of thought; and like the air we breath, such a form is so translucent, and so pervading, and so seemingly necessary that only by extreme effort can we become aware of it."),
+byline=("- Alfred North Whitehead<br><i>Adventures of Ideas</i> (1933)")                  
+
+document.write('<blockquote><blockquote><CENTER>"'+quote+'"</CENTER>')
+document.write('<CENTER><FONT SIZE="-2">'+byline+' </FONT></CENTER></blockquote></blockquote>')</SCRIPT>

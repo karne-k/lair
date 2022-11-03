@@ -1,0 +1,195 @@
+<HTML><HEAD><TITLE>CAD Internet Division</TITLE>
+<STYLE TYPE="text/css"><!-- A {text-decoration: none} A.WHITE {font: 10.pt "arial"; color: white; font-weight: bold} A.SMALL {font: 8.pt "arial"; color: white} A.BLUE  {color: "#336699"; text-decoration: underline} -->
+</STYLE></HEAD>
+
+<BODY BGCOLOR="#ffffff">
+
+<TABLE WIDTH=600 BORDER=0 VALIGN="TOP"><TR>
+<TD VALIGN="TOP" WIDTH="140"><CENTER><IMG SRC="img/cad.gif" WIDTH=172 HEIGHT=39 BORDER=0 ALT="CAD Logo">
+</CENTER></TD>
+
+<TD VALIGN="TOP" WIDTH=460 ALIGN="LEFT">
+<BR></TD></TR>
+
+</TABLE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=600 BORDER=0 VALIGN="TOP" BGCOLOR="#000000">
+
+<TD ALIGN="RIGHT"><FONT SIZE="-2" FACE="Arial" COLOR="White">
+
+<SCRIPT LANGUAGE="Javascript">
+<!--
+
+// Array function
+function makeArray(len) {
+    for (var i = 0; i < len; i++) this[i] = null;
+this.length = len;
+}
+
+// Array of day names
+var dayNames = new makeArray(7);
+dayNames[0] = "Sunday";
+dayNames[1] = "Monday";
+dayNames[2] = "Tuesday";
+dayNames[3] = "Wednesday";
+dayNames[4] = "Thursday";
+dayNames[5] = "Friday";
+dayNames[6] = "Saturday";
+
+// Array of month Names
+var monthNames = new makeArray(12);
+monthNames[0] = "January";
+monthNames[1] = "February";
+monthNames[2] = "March";
+monthNames[3] = "April";
+monthNames[4] = "May";
+monthNames[5] = "June";
+monthNames[6] = "July";
+monthNames[7] = "August";
+monthNames[8] = "September";
+monthNames[9] = "October";
+monthNames[10] = "November";
+monthNames[11] = "December";
+
+var now = new Date();
+var day = now.getDay();
+var month = now.getMonth();
+var year = now.getYear();
+var date = now.getDate();
+
+document.write( dayNames[day] + ", " + date + " " + monthNames[month] + " 19" + year + "&nbsp;&nbsp;&nbsp;");
+
+// -->
+</SCRIPT>
+
+<BR></FONT></TD></TR></TABLE>
+
+<TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=600 BORDER=0 VALIGN="TOP"><TR>
+<TD VALIGN="TOP" BGCOLOR="#181888" WIDTH="145">
+
+<TABLE CELLPADDING=0 CELLSPACING=0 WIDTH=145 BORDER=0 VALIGN="TOP"><TR>
+<TD VALIGN="TOP" WIDTH="10">&nbsp;</TD>
+<TD VALIGN="TOP" WIDTH="135">
+
+<BR>
+<B>
+
+<A HREF="/services/web/index.html" CLASS="white"><FONT FACE="Arial" SIZE="-1"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Web Services</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/services/web/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Total Site Solution</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/services/web/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Design</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/services/web/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Hosting</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/services/domains/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Domain Names</FONT></A><BR>
+
+<P>
+
+<A HREF="http://www.ukshells.co.uk" CLASS="white"><FONT FACE="Arial" SIZE="-1"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Shell Accounts</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="http://www.ukshells.co.uk" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">UK Shells</FONT></A><BR>
+<P>
+
+<A HREF="/services/colocation/index.html" CLASS="white"><FONT FACE="Arial" SIZE="-1"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Co-Location</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/services/colocation/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Professional</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/services/colocation/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Cloud Connection</FONT></A><BR>
+
+<P>
+<!--
+<A HREF="/support/index.html" CLASS="white"><FONT FACE="Arial" SIZE="-1"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Support</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/support/basic/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Configuration Information</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/support/problems/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Problems &amp; Solutions</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/support/utilities/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Helpful Utilities</FONT></A><BR>
+-->
+<P>
+
+<A HREF="/contact/index.html" CLASS="white"><FONT FACE="Arial" SIZE="-1"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Contact</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/contact/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Telephone Numbers</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/contact/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Email Addresses</FONT></A><BR>
+
+<P>
+
+<A HREF="/about/index.html" CLASS="white"><FONT FACE="Arial" SIZE="-1"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">About</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/about/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">About CAD Internet</FONT></A><BR>
+
+<P>
+
+<!--
+<A HREF="/news/index.html" CLASS="white"><FONT FACE="Arial" SIZE="-1"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">News</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/news/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Press Releases</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/news/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Changes &amp; Upgrades</FONT></A><BR>
+
+<P>
+
+<A HREF="/status/index.html" CLASS="white"><FONT FACE="Arial" SIZE="-1"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Network Status</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/status/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">CAD Status</FONT></A><BR>
+&nbsp;&nbsp;&nbsp;<A HREF="/status/index.html" CLASS="small"><FONT FACE="Arial" SIZE="-2"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">Internet Status</FONT></A><BR>
+</b>
+-->
+<P>
+<A HREF="mailto:sales@cad-net.co.uk"><FONT FACE="Arial" SIZE="-3"  color="#dddddd" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#dddddd'">&copy;1999 CAD Internet</FONT></A>
+
+</TD></TR></TABLE>
+
+</TD>
+
+<TD WIDTH=3>&nbsp;</TD>
+
+<TD VALIGN="TOP" WIDTH="450">
+
+<TABLE WIDTH="450" BORDER="0" CELLSPACING="0" CELLPADDING="0" VALIGN="TOP"><TR><TD VALIGN="TOP" WIDTH="310">
+<FONT SIZE="+1" FACE="Arial" COLOR="#181888"><BR><CENTER><B>CAD Internet Division</B></CENTER><BR></FONT>
+<FONT SIZE="-1" FACE="Arial">Based near Birmingham in the United Kingdom, CAD offers affordable quality services to business and home users.</FONT>
+<P>
+<IMG SRC="img/new.gif" WIDTH="310" HEIGHT="15" BORDER=0><BR><P>
+<FONT SIZE="-1" FACE="Arial"><B>Co-Location Cloud</B>:  the ultimate in low cost server hosting for &#163;39 (+VAT) per month!<BR>
+<A HREF="services/colocation/index.html">more...</A>
+<P>
+<FONT SIZE="-1" FACE="Arial"><B>Co-Location Professional</B>:  high quality co-location charged on bandwidth used basis - ideal for virtual hosting ISP's &#163;25 (+VAT) per month plus bandwith!
+<BR>
+<A HREF="services/colocation/index.html">more...</A></FONT>
+<P>
+<IMG SRC="img/special.gif" WIDTH="310" HEIGHT="15" BORDER=0><BR><P>
+<FONT SIZE="-1" FACE="Arial">
+<P>
+<B>Website Package</B>: domain name, design and hosting for &#163;199 (+VAT) for one year!
+<BR>
+<A HREF="services/web/index.html">more...</A>
+</FONT>
+<P>
+<IMG SRC="img/network.gif" WIDTH="310" HEIGHT="15" BORDER=0><BR><P>
+
+<TABLE WIDTH="310" BORDER="0" CELLSPACING="0" CELLPADDING="0" VALIGN="TOP">
+
+<TR>
+<TD><FONT SIZE="-1" FACE="Arial">&#183;High Speed Net Backbone<BR>&#183;100Mb/s Server Backbone<BR>&#183;3COM Hardware<BR></FONT></TD>
+<TD><FONT SIZE="-1" FACE="Arial">&#183;Sun Sparc Servers<BR>&#183;IBM RS6000 Servers<BR>&#183;Cisco Routers<BR></FONT></TD>
+</TR>
+
+</TABLE>
+</TD>
+
+<TD VALIGN="TOP" WIDTH="5">&nbsp;</TD>
+<TD VALIGN="TOP" WIDTH="135"><BR>
+
+<TABLE BORDER=1 BORDERCOLOR="Black" CELLPADDING=0 CELLSPACING=0 VALIGN="TOP"><TR><TD>
+<TABLE WIDTH="130" CELLPADDING=0 CELLSPACING=0 BORDER=0 BGCOLOR="#FFFFDD">
+<TR BGCOLOR="#FFFFDD"><TD BGCOLOR="#FFFFDD">
+<FONT SIZE="-1" FACE="Arial"><CENTER><B>Local Weather</B></CENTER></FONT><BR>
+<applet codebase="java/tscroll" code=tscroll.class width="135" height=15>
+	<param name=file value="conditions.txt">
+	<param name=tscr value=1>
+	<param name=speed value=1>
+	<param name=delay value=20>
+</applet>
+</TR>
+<TR>
+<TD BGCOLOR="#FFFFDD"><FONT SIZE="-2" FACE="Arial">
+<hr width=60>
+Weather and conditions for the Birmingham area, in the United Kingdom.<br>&nbsp;</TD></TR>
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+
+<P>
+</TD></TR></TABLE><P>
+</TD></TR></TABLE>
+
+</BODY></HTML>

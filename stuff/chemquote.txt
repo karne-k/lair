@@ -1,0 +1,42 @@
+"Every attempt to employ mathematical methods in the study of chemical questions must be considered profoundly irrational and contrary to the spirit of chemistry.... if mathematical analysis should ever hold a prominent place in chemistry -- an aberration which is happily almost impossible -- it would occasion a rapid and widespread degeneration of that  science."
+
+-- Auguste Comte, Cours de philosophie positive, 1830  
+
+Author:        Comte, Auguste, 1798-1857.
+Uniform Title: Cours de philosophie positive. Selections
+Title:         Systaeme de philosophie positive, prbeliminaires
+                  gbenberaux et conclusions (1830-1842)
+Edition:       [bEd. commbemorative du 1. centenaire de la
+                  publication du t. 6. et dernier du Cours de
+                  philosophie positive]
+Published:     Paris [1942]
+Description:   512 p. illus., port., facsims. 23 cm.
+Series:        Archives positivistes, 2
+LC Call No.:   B2222  1942
+Dewey No.:     146
+Notes:         "Extraits de [la] correspondance "d'Auguste Comte]":
+                  p. [7]-108.
+               "Addendum": [2] p. inserted.
+Subjects:      Positivism.
+Control No.:   49055513 //r83
+
+Author:        Comte, Auguste, 1798-1857.
+Uniform Title: Cours de philosophie positive. English
+Title:         The positive philosophy. With a new introd. by Abraham
+                  S. Blumberg.
+Published:     New York, AMS Press, 1974.
+Description:   xi, 838 p. 23 cm.
+Series:        Language, man, and society: foundations of the
+                  behavioral sciences
+LC Call No.:   B2223.E5 M3 1974
+Dewey No.:     146/.4
+ISBN:          0404082092
+Notes:         "Freely translated and condensed by Harriet
+                  Martineau."
+               Reprint of the 1855 translation of Cours de
+                  philosophie positive published by C. Blanchard, New
+                  York.
+               Includes bibliographical references.
+Subjects:      Positivism.
+Other authors: Martineau, Harriet, 1802-1876, tr.
+Control No.:   70147959 //r83
